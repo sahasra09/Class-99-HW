@@ -10,7 +10,7 @@ def main():
 	deleted_files_count = 0
 
 	
-	path = "/PATH_TO_DELETE"
+	path = ""
 
 	
 	days = 30
