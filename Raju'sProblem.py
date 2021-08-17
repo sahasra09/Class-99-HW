@@ -10,7 +10,7 @@ def main():
 	deleted_files_count = 0
 
 	
-	path = input("Enter your path")
+	path = input("Enter your path: ")
 
 	
 	days = 30
